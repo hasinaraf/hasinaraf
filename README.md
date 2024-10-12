@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋 I'm Hasin Araf</h1>
-<h3 align="center">I am a final semester Software Engineering student</h3>
+<h3 align="center">I am a final semester Software Engineering student.</h3>
 <img align = "right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I’m currently working on [NFT-MARKETPLACE](https://github.com/hasinaraf/NFT-MARKETPLACE)
