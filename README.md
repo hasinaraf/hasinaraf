@@ -1,6 +1,7 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)](https://hasinaraf.netlify.app/)
 <h1 align="center">Hey!👋 I'm Hasin Araf</h1>
 <h3 align="center">I am a final semester Software Engineering student.</h3>
-<img align = "right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align = "right" alt="coding" width="400" src = "https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif">
 
 - 🔭 I’m currently working on [NFT-MARKETPLACE](https://github.com/hasinaraf/NFT-MARKETPLACE)
 
