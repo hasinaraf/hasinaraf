@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://hasinaraf.netlify.app/](https://hasinaraf.netlify.app/)
 
-- 📝 I regularly contribute code in my GitHub [https://github.com/hasinaraf](https://github.com/hasinaraf)
+- 📝 I regularly contribute code to my GitHub [https://github.com/hasinaraf](https://github.com/hasinaraf)
 
-- 💬 Ask me about **Laravel, MVC**
+- 💬 Ask me about **web development, Problem Solving**
 
 - 📫 How to reach me **hasinaraff@gmail.com**
 
