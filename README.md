@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **web development, Problem Solving**
 
-- 📫 How to reach me **hasinaraff@gmail.com**
+- 📫 Find me here **hasinaraff@gmail.com**
 
 - 📄 Know about my experiences [https://hasinaraf.netlify.app/asset/Hasin%20Araff%20Resume%20.pdf](https://hasinaraf.netlify.app/asset/Hasin%20Araff%20Resume%20.pdf)
 
