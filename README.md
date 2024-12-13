@@ -3,21 +3,21 @@
 <h3 align="center">I am a final semester Software Engineering student.</h3>
 <img align = "right" alt="coding" width="400" src = "https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif">
 
-- 🔭 I’m currently working on [NFT-MARKETPLACE](https://github.com/hasinaraf/NFT-MARKETPLACE)
+- 🔭 I’m currently working on my Thesis named "A Comparative Analysis on Multiple Dimensionality Microarray Dataset between Random Forest and Support Vector Machines."
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Three JS**
 
-- 👨‍💻 All of my projects are available at [https://hasinaraf.netlify.app/](https://hasinaraf.netlify.app/)
+- 👨‍💻 Check My E Portfolio [https://hasinaraf.netlify.app/](https://hasinaraf.netlify.app/)
 
 - 📝 I'm trying to contribute regularly to my GitHub [https://github.com/hasinaraf](https://github.com/hasinaraf)
 
-- 💬 Ask me about **web development, Problem Solving**
+- 💬 Ask me about **Anything XD**
 
-- 📫 Find me here **hasinaraff@gmail.com**
+- 📫 Contact Me  **hasinaraff@gmail.com**
 
 - 📄 Know about my experiences [https://hasinaraf.netlify.app/asset/Hasin%20Araff%20Resume%20.pdf](https://hasinaraf.netlify.app/asset/Hasin%20Araff%20Resume%20.pdf)
 
-- ⚡ Hobbies **Fitness, Travel, Game**
+- ⚡ Hobbies **Game, Sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
