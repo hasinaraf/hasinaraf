@@ -3,9 +3,9 @@
 <h3 align="center">I am a final semester Software Engineering student.</h3>
 <img align = "right" alt="coding" width="400" src = "https://agencypartner.com/wp-content/uploads/2022/05/91382-web-development.gif">
 
-- 🔭 I’m currently working on my Thesis named "A Comparative Analysis on Multiple Dimensionality Microarray Dataset between Random Forest and Support Vector Machines."
+- 🔭 Fresh Grad Software Engineer. Seeking for my first Software Engineer Position"
 
-- 🌱 I’m currently learning **Three JS**
+- 🌱 Currently doing CS50
 
 - 👨‍💻 Check My E Portfolio [https://hasinaraf.netlify.app/](https://hasinaraf.netlify.app/)
 
